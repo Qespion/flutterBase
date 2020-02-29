@@ -20,6 +20,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "audioplayers",
+      "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.14.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-1.0.5",
       "packageUri": "lib/",
@@ -68,6 +74,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///home/quentin/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "image",
       "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/image-2.1.4",
       "packageUri": "lib/",
@@ -92,6 +104,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "path_provider",
+      "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "pedantic",
       "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1",
       "packageUri": "lib/",
@@ -102,6 +120,12 @@
       "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.4"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/platform-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.24"
     },
     {
       "name": "quiver",
@@ -158,6 +182,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "uuid",
+      "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///home/quentin/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8",
       "packageUri": "lib/",
@@ -176,7 +206,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-02-29T16:31:08.099033Z",
+  "generated": "2020-02-29T17:02:13.230388Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

@@ -4,6 +4,8 @@ ADDED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/s
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:audioplayers] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -96,6 +98,10 @@ uses-sdk
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/quentin/sideproject/flutterBase/xylophone-flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:audioplayers] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:path_provider] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/quentin/sideproject/flutterBase/xylophone-flutter/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/quentin/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
